@@ -1,5 +1,5 @@
 # Happy-Places-App
-an android app to store your favourite places
+an android app to store your favorite places
 
 - add any location by simple search using Google Places API
 - add current location
